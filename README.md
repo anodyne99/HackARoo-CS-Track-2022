@@ -10,4 +10,5 @@ object detection algorithm to spot and highlight knives and pistols with an aver
 
 ## To run
 Simply open the YOLOv5_Weapon_Detection.ipynb in jupyter notebooks or click the link below to access the file on Google colab.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zCNkTuA0Mwi3Tx0IoFo5MVGGggv8Ymmi#scrollTo=Iue3FD4sPrC1)
